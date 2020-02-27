@@ -145,13 +145,15 @@
 
           <!-- Links -->
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
+            <li class="nav-item">
               <a class="nav-link" href="/">Inicio
-                <span class="sr-only">(current)</span>
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/novedades">Novedades</a>
+            <li class="nav-item active">
+              <a class="nav-link" href="/novedades">Novedades
+                <span class="sr-only">(current)</span>
+              </a>
+              
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Registrarse</a>
