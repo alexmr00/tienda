@@ -18,3 +18,11 @@ Route::get('/', function () {
 Route::get('/novedades', function () {
     return view('novedades');
 });
+
+Route::get('/carrito', function () {
+    return view('carrito');
+});
+
+Route::get('/administrador', function () {
+    return view('admin');
+});

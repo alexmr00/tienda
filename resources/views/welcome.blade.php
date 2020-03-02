@@ -154,10 +154,10 @@
               <a class="nav-link" href="/novedades">Novedades</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Registrarse</a>
+              <a class="nav-link" href="/carrito">Carrito</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Login</a>
+              <a class="nav-link" href="/administrador">Administrador</a>
             </li>
 
           </ul>
